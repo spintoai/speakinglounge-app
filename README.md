@@ -1,48 +1,87 @@
 <div align="center">
-  <img src="https://www.speakinglounge.kr/icons/favicon-128x128.png?v=2" alt="스피킹라운지" width="96" />
+  <img src="https://www.speaking-lounge.com/icons/favicon-128x128.png" alt="Speaking Lounge" width="96" />
 
-  # 스피킹라운지
+  # Speaking Lounge
 
-  **한국인 전용 AI 영어 발음 코치**
+  **AI pronunciation coach and conversation practice**
 
-  [speakinglounge.kr](https://speakinglounge.kr) · [최신 다운로드](https://github.com/spintoai/speakinglounge-app/releases/latest)
+  [speaking-lounge.com](https://www.speaking-lounge.com) · [Latest release](https://github.com/spintoai/speakinglounge-app/releases/latest)
 </div>
 
-![스피킹라운지의 8명의 친구들](https://www.speakinglounge.kr/images/cast-lineup.jpg)
+![Speaking Lounge cast](https://www.speaking-lounge.com/images/cast-lineup.jpg)
 
-영어 앞에서 입이 안 떨어지나요? 옆에 한국인 있을 땐 더 그렇죠.
+Talk with 8 AI friends and see exactly where your accent slips, down to the phoneme. A desktop app for Windows and macOS.
 
-스피킹라운지는 혼자 PC 앞에서 **8명의 원어민 AI 친구들**과 영어로 대화하는 데스크탑 앱입니다. 오늘 말할 친구를 고르면 매번 다른 장소에서 대화가 시작되고, 한국인 발음 패턴을 직접 학습한 자체 AI가 발음과 문법을 정확히 짚어 줍니다. 몇 번이든 다시 해도 비웃지 않아요.
+---
 
-![자유 대화 — K엑스레이 발음 평가](https://www.speakinglounge.kr/media/hero-scene.webp)
+## 한국어
 
-## 주요 기능
+**스피킹라운지** · 한국인을 위한 AI 발음 코치. 영어 / 일본어 / 중국어를 한 앱에서.
 
-| | |
-|---|---|
-| **8명의 원어민 친구들** | 진 · 그레이스 · 유나 · 이든 · 다니엘 · 카를로스 · 조이 · 루시 — 각자 성격과 목소리가 다른 대화 상대 |
-| **K엑스레이 AI** | 한국인 음성 데이터로 직접 학습한 발음 평가 모델. 내 문장 위에 파동과 단어별 점수를 그려줌 |
-| **마그넷 매칭 AI** | 발음을 음소 단위로 분해해 어디가 틀렸는지 자동으로 짚어주는 연습실 |
-| **자유 대화** | 1,900가지 대화거리 + 힌트 버튼 + 문법 자동 교정 |
-| **시나리오 학습** | 상황 미션 48 + 핵심 표현 187 (Lv 1-20) |
-| **성장 기록** | 단어 사전 + 월간 Lv 차트 + 정복/도전 통계 |
-| **프라이버시** | 녹음은 PC 밖으로 나가지 않음 — 음성 수집 없음 |
-| **평생 라이센스** | 1회 결제, 구독 없음 |
+옆에 한국인이 있으면 영어가 더 안 나오죠. AI 친구와 혼자 대화하면서, 어느 발음이 약한지 음소 단위로 짚어드려요. 틀려도 혼자라 안 부끄러워요.
 
-## 다운로드
+- **발음 스캔** · 문장 위에 발음 파동과 단어별/문장 점수, 약한 소리는 음소 타일로 진단
+- **자유 대화** · 성격이 다른 8명의 친구, 1,900가지 주제
+- **시나리오 미션** 48개와 핵심 표현 20단계
+- **영어 / 일본어 / 중국어** 세 언어 모두, 글자 아래 한글로 따라 읽기 (일본어 후리가나, 중국어 병음·성조)
+- 데스크탑 앱 (Windows / macOS) · 녹음한 목소리는 컴퓨터 밖으로 나가지 않아요
 
-**[speakinglounge.kr](https://speakinglounge.kr)** 에서 받는 것을 권합니다. 7일 무료 체험은 이메일만 있으면 됩니다.
+**한 번 결제로 평생 사용** · 구독 아님 · 카드 없이 7일 무료 체험
 
-직접 받으려면 [Releases](https://github.com/spintoai/speakinglounge-app/releases/latest) 에서:
+다운로드 · https://www.speaking-lounge.com/ko
 
-- **Windows** — `speakinglounge-x.y.z-win-x64.exe` (Windows 10/11 64bit)
-- **macOS** — `speakinglounge-x.y.z-mac-arm64.dmg` (Apple Silicon)
+---
 
-이 저장소는 macOS · Windows 빌드 바이너리 배포 채널로만 사용됩니다. 소스 코드는 비공개입니다.
+## 日本語
 
-## 문의
+**Speaking Lounge** · 日本人のための AI 発音コーチ。英語 / 韓国語 / 中国語をひとつのアプリで。
 
-**문의 / 환불**: support@spintoai.com
+隣に日本人がいると、英語はなおさら出てこないですよね。AIフレンドとひとりで会話しながら、どの発音が弱いかを音素単位で指摘します。間違えてもひとりだから恥ずかしくないですよ。
+
+- **発音スキャン** · 文の上に発音波形と単語ごと/文全体のスコア、弱い音は音素タイルで診断
+- **自由会話** · 性格の違う8人のフレンド、1,900種類のトピック
+- **シナリオミッション** 48個と重要表現 20ステップ
+- **英語 / 韓国語 / 中国語** すべて、文字の下にふりがな・ピンイン（声調）で読みながら
+- デスクトップアプリ (Windows / macOS) · 録音した声はコンピューターの外に出ません
+
+**一回払いで生涯利用** · サブスク不要 · カードなしで7日間無料体験
+
+ダウンロード · https://www.speaking-lounge.com/ja
+
+---
+
+## English
+
+**Speaking Lounge** · An AI pronunciation coach for Korean / Japanese / Chinese, all in one app.
+
+You love the language, but freeze when it is time to speak? Chat with an AI friend and find out exactly where your accent slips. It is just you and the app. No embarrassment, no judgment.
+
+- **Pronunciation Scan** · waveforms over your sentence with per-word and per-sentence scores; weak sounds broken into phoneme tiles
+- **Free conversation** · 8 friends with distinct personalities, 1,900 topics
+- **Scenario missions** · 48 missions and 20 levels of key expressions
+- **Korean / Japanese / Chinese**, with read-along aids (Japanese furigana, Chinese pinyin and tones)
+- Desktop app (Windows / macOS) · your recorded voice never leaves your computer
+
+**One-time payment, lifetime license** · no subscription · 7-day free trial, no credit card
+
+Download · https://www.speaking-lounge.com/en
+
+---
+
+## Download
+
+We recommend getting it from **[speaking-lounge.com](https://www.speaking-lounge.com)** — the 7-day free trial just needs an email.
+
+Or grab a build directly from [Releases](https://github.com/spintoai/speakinglounge-app/releases/latest):
+
+- **Windows** — the `.exe` installer (Windows 10/11, 64-bit)
+- **macOS** — the `.dmg` (Apple Silicon)
+
+This repository is the binary distribution channel for the macOS and Windows builds. The source code is private.
+
+## Contact
+
+Support / refunds: support@spintoai.com
 
 ---
 
