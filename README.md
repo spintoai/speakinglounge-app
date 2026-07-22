@@ -18,7 +18,7 @@ Talk with 8 AI friends and see exactly where your accent slips, down to the phon
 
 **스피킹라운지** · 한국인을 위한 AI 발음 코치. 영어 / 일본어 / 중국어를 한 앱에서.
 
-옆에 한국인이 있으면 영어가 더 안 나오죠. AI 친구와 혼자 대화하면서, 어느 발음이 약한지 음소 단위로 짚어드려요. 틀려도 혼자라 안 부끄러워요.
+사람들 앞에서 말하기 전에, 아무도 안 듣는 내 PC에서 혼자 고쳐요. AI 친구와 한 문장 말하면 어느 단어의 어떤 소리가 약한지 음소 단위로 보여드려요. 혼자라 틀려도 몇 번이든 다시 하면 돼요.
 
 - **발음 스캔** · 문장 위에 발음 파동과 단어별/문장 점수, 약한 소리는 음소 타일로 진단
 - **자유 대화** · 성격이 다른 8명의 친구, 1,900가지 주제
@@ -36,7 +36,7 @@ Talk with 8 AI friends and see exactly where your accent slips, down to the phon
 
 **Speaking Lounge** · 日本人のための AI 発音コーチ。英語 / 韓国語 / 中国語をひとつのアプリで。
 
-隣に日本人がいると、英語はなおさら出てこないですよね。AIフレンドとひとりで会話しながら、どの発音が弱いかを音素単位で指摘します。間違えてもひとりだから恥ずかしくないですよ。
+人前で話す前に、誰にも聞かれない自分のPCでひとりで直せます。AIフレンドと一文話すと、どの単語のどの音が弱いかを音素単位で見せてくれます。ひとりだから、間違えても何度でもやり直せます。
 
 - **発音スキャン** · 文の上に発音波形と単語ごと/文全体のスコア、弱い音は音素タイルで診断
 - **自由会話** · 性格の違う8人のフレンド、1,900種類のトピック
@@ -54,7 +54,7 @@ Talk with 8 AI friends and see exactly where your accent slips, down to the phon
 
 **Speaking Lounge** · An AI pronunciation coach for Korean / Japanese / Chinese, all in one app.
 
-You love the language, but freeze when it is time to speak? Chat with an AI friend and find out exactly where your accent slips. It is just you and the app. No embarrassment, no judgment.
+Speak Korean, Japanese, or Chinese, from your very first word. Chat with an AI friend and see exactly which sounds are shaky, phoneme by phoneme. It's just you and your PC, so you can try a line again as many times as you like.
 
 - **Pronunciation Scan** · waveforms over your sentence with per-word and per-sentence scores; weak sounds broken into phoneme tiles
 - **Free conversation** · 8 friends with distinct personalities, 1,900 topics
