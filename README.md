@@ -1,87 +1,41 @@
 <div align="center">
   <img src="https://www.speaking-lounge.com/icons/favicon-128x128.png" alt="Speaking Lounge" width="96" />
 
-  # Speaking Lounge
+  # 스피킹라운지
 
-  **AI pronunciation coach and conversation practice**
+  **외국 가기 전에 먼저 말해 보는 AI 회화**
 
-  [speaking-lounge.com](https://www.speaking-lounge.com) · [Latest release](https://github.com/spintoai/speakinglounge-app/releases/latest)
+  [speaking-lounge.com](https://www.speaking-lounge.com/ko) | [최신 버전 받기](https://github.com/spintoai/speakinglounge-app/releases/latest)
 </div>
 
-![Speaking Lounge cast](https://www.speaking-lounge.com/images/cast-lineup.jpg)
+![스피킹라운지 AI 친구들](https://www.speaking-lounge.com/images/cast-lineup.jpg)
 
-Talk with AI friends and see exactly where your accent slips, down to the phoneme. A desktop app for Windows and macOS.
+영어, 술술 나오세요?
 
----
+카페 주문도 입국 심사도, 가기 전에 먼저 말해 보세요. AI가 점원도 되고 심사관도 돼요. 내가 말할 때마다 어디가 틀렸는지 소리 하나까지 짚어 드려요.
 
-## 한국어
+- 발음이 틀린 단어는 내가 어떤 소리로 냈는지 보여 드려요
+- 여행, 생활, 일 상황 미션이 96가지예요. 미션 밖에선 AI 친구 8명과 수다를 떨 수 있어요
+- 영어, 일본어, 중국어 모두 단어마다 한글 발음이 붙어요
+- 완전 초보라도 알파벳 소리부터 따라오면 돼요
 
-**스피킹라운지** · 한국인을 위한 AI 발음 코치. 영어 / 일본어 / 중국어를 한 앱에서.
+카드 등록 없이 이메일만 있으면 7일 동안 무료로 써 볼 수 있어요.
 
-사람들 앞에서 말하기 전에, 아무도 안 듣는 내 PC에서 혼자 고쳐요. AI 친구와 한 문장 말하면 어느 단어의 어떤 소리가 약한지 음소 단위로 보여드려요.
+## 다운로드
 
-- **발음 스캔** · 약한 소리를 음소 타일로 짚어줘요
-- **소리부터 대화까지** · 파닉스에서 시작해 단어, 문장, 미션을 거쳐 자유 대화까지 한 길로 이어져요
-- **세 언어** · 글자를 몰라도 한글로 따라 읽을 수 있어요
-- 녹음한 목소리는 컴퓨터 밖으로 나가지 않아요
+[speaking-lounge.com](https://www.speaking-lounge.com/ko#download)에서 받으시면 가장 쉬워요. 이 저장소의 [Releases](https://github.com/spintoai/speakinglounge-app/releases/latest)에서 바로 받으셔도 돼요.
 
-**한 번 결제로 평생 사용** · 구독 아님 · 카드 없이 7일 무료 체험
+- Windows: `.exe` 설치 파일(Windows 10이나 11, 64비트)
+- Mac: `.dmg`(애플 실리콘, M 시리즈)
 
-다운로드 · https://www.speaking-lounge.com/ko
+처음 켜면 앱이 음성 파일과 발음 채점 파일을 받아요.
 
----
+폰과 태블릿 앱은 [App Store](https://apps.apple.com/kr/app/id6833050193)와 [Google Play](https://play.google.com/store/apps/details?id=com.spintoai.speakinglounge)에 있어요.
 
-## 日本語
+이 저장소는 Windows와 Mac 설치 파일을 올려 두는 곳이지만, 소스 코드는 공개하지 않아요.
 
-**Speaking Lounge** · 日本人のための AI 発音コーチ。英語 / 韓国語 / 中国語をひとつのアプリで。
+## 문의
 
-人前で話す前に、誰にも聞かれない自分のPCでひとりで直せます。AIフレンドと一文話すと、どの単語のどの音が弱いかを音素単位で見せてくれます。
-
-- **発音スキャン** · 弱い音を音素タイルで示します
-- **発音から会話まで** · 発音からはじめて、単語・文・ミッションを経て自由会話まで一本の道でつながります
-- **3言語** · 文字を知らなくても、かなで読みながら話せます
-- 録音した声はコンピューターの外に出ません
-
-**一回払いで生涯利用** · サブスク不要 · カードなしで7日間無料体験
-
-ダウンロード · https://www.speaking-lounge.com/ja
-
----
-
-## English
-
-**Speaking Lounge** · An AI pronunciation coach for Korean / Japanese / Chinese, all in one app.
-
-Chat with an AI friend and see exactly which sounds are shaky, phoneme by phoneme. It's just you and your PC, so you can practice before you speak in front of anyone.
-
-- **Pronunciation Scan** · weak sounds broken into phoneme tiles
-- **From sounds to conversation** · one path from the basic sounds through words, sentences, and missions up to free conversation
-- **Three languages** · romanization under every line, so you can read along before you know the script
-- Your recorded voice never leaves your computer
-
-**One-time payment, lifetime license** · no subscription · 7-day free trial, no credit card
-
-Download · https://www.speaking-lounge.com/en
-
----
-
-## Download
-
-We recommend getting it from **[speaking-lounge.com](https://www.speaking-lounge.com)** — the 7-day free trial just needs an email.
-
-Or grab a build directly from [Releases](https://github.com/spintoai/speakinglounge-app/releases/latest):
-
-- **Windows** — the `.exe` installer (Windows 10/11, 64-bit)
-- **macOS** — the `.dmg` (Apple Silicon)
-
-The pronunciation and voice models are downloaded the first time you open the app.
-
-This repository is the binary distribution channel for the macOS and Windows builds. The source code is private.
-
-## Contact
-
-Support / refunds: support@spintoai.com
-
----
+support@spintoai.com
 
 © SpintoAI Inc.
